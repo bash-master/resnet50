@@ -1,0 +1,10 @@
+CREATE TABLE `upload_file` (
+  `file_id` varchar(255) NOT NULL,
+  `name_orig` varchar(255) DEFAULT NULL,
+  `name_save` varchar(255) DEFAULT NULL,
+  `reg_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `pred_desc` text,
+  PRIMARY KEY (`file_id`),
+  KEY `idx1` (`name_save`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+

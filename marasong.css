@@ -1,0 +1,59 @@
+body, td {
+        margin:0 0 0 0;
+        font-size:20pt;
+        font-family:돋움;
+        scrollbar-3dlight-color:595959;
+        scrollbar-arrow-color:7F7F7F;
+        scrollbar-base-color:CFCFCF;
+        scrollbar-darkshadow-color:FFFFFF;
+        scrollbar-face-color:DFDFDF;
+        scrollbar-highlight-color:FFFFF;
+        scrollbar-shadow-color:595959;
+        background-color:black;
+}
+
+td,body,select,input,form,textarea,option,pre,blockquote {font-size:20pt; font-family:돋움,gulim,tahoma; color:white;}
+
+td {line-height:110%;}
+
+.1textarea {border:solid 1; font-family:돋움,verdana;font-size:9pt;color:#666666;background-color:black;border-width:1px;border-style:solid;border-color:#F0F0F0;line-height:160%;}
+.1input0{border:solid 1;font-family:돋움,verdana;font-size:9pt;color:black;background-color:white;height:19px;border-width:1px; border-style:solid; border-color:#dadada;}
+.1input2{border:solid 0;font-family:돋움,verdana;font-size:9pt;color:white;background-color:white;height:16px;}
+.1input3{border:solid 1;font-family:돋움,verdana;font-size:9pt;color:black;background-color:white;height:19px;border-width:1px; border-style:solid; border-color:#dadada;}
+.1submit {border:solid 1;font-family:돋움,verdana;font-size:9pt;color:white;background-color:black;height:19px;border-width:1px; border-style:solid; border-color:#dadada;}
+.1comment {border-width:1px; border-style:solid; border-color:#dadada;}
+.1contents {line-height:160%;font-size:9pt;font-family:돋움,gulim;color:white;}
+.1btn_comment {border:solid 1;border-color:#DADADA;background-color:#ffffff;width:65;height:100%;font-family:tahoma;font-size:10px;font-weight:bold;color:#666666;}
+
+.1write_input{border:solid 1;font-family:돋움,verdana;font-size:9pt;color:#666666;background-color:white;height:19px;border-width:1px; border-style:solid; border-color:#F0F0F0;}
+
+
+.1th6 {font-family:tahoma;font-size:6pt;}
+.1th7 {font-family:tahoma;font-size:7pt;}
+.1van7 {font-family:vandana;font-size:8px;}
+.1th7 {font-family:tahoma;font-size:8pt;}
+.1th8 {font-family:tahoma;font-size:9pt;}
+.1th9 {font-family:tahoma;font-size:8pt;}
+.1gulim9 {font-size:9pt; font-family:돋움,gulim;}
+
+.1th7b {font-family:tahoma;font-size:7pt;font-weight:bold;}
+.1th8b {font-family:tahoma;font-size:8pt;font-weight:bold;}
+
+.1name {font-family:tahoma;font-size:8pt;}
+.1head {font-family:tahoma;font-size:8pt;font-weight:bold;color:#333333;}
+
+.1head {border:solid 1 black;font-size:9pt;color:white;background-color:white;height:19px}
+.1textarea {border:solid 1;font-size:9pt;color:white;background-color:white;}
+.1input {border:solid 1;font-size:9pt;color:white;background-color:white;}
+.1submit {border:solid 0;font-size:9pt;color:white;background-color:black;height:19px}
+
+BODY,TD,SELECT,input,DIV,TEXTAREA,center,option,pre,blockquote {
+margin:0px 0px 0px 0px;
+font-size:20pt;
+font-family:돋움;
+}
+
+A:link    {color:white;text-decoration:none;}
+A:visited {color:white;text-decoration:none;}
+A:active  {color:white;text-decoration:none;}
+A:hover   {color:#E8E8FF;text-decoration:underline}
