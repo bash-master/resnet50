@@ -11,3 +11,7 @@ python run_keras_server.py
 </pre>
 
 웹에서 index.php 접속.
+
+
+샘플 웹 : http://ml.marasong.net:10080/marasong/app/
+
